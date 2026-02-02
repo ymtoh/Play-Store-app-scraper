@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 # Play-Store-app-scraper
-=======
-# Play Store Query Script
 
 A Python script to query the Google Play Store for app information using the `google-play-scraper` library.
 
